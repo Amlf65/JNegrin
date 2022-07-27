@@ -8,7 +8,7 @@
     //$usuario="id17478588_usuario";
     //$pass="Zn82Fj(A_>Znp]AW";
     $servidor="localhost";
-    $nombreBd="pfae";
+    $nombreBd="biblioteca";
     $usuario="root";
     $pass="";
     $conexion= new mysqli($servidor,$usuario,$pass,$nombreBd);
